@@ -1,7 +1,7 @@
 
 # Supermetrics assignment
 
-The purpose of this assignment is to help evaluate your React and front-end development skills.
+The purpose of this assignment is to help evaluate a candidater's React and front-end development skills.
 
 
 
